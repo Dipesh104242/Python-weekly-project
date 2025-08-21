@@ -1,0 +1,66 @@
+Shope Name:         Dipesh'S Super Shope
+Customer Name: Dipesh
+Billno. Billabc27
+Date: 2025-08-21 04:18:28.307488
+------------------------------------------------------------
+1.  Name: sfds | Price: 2 |  Quaintity: 2 |  Total_Price 4
+------------------------------------------------------------
+Grand Total: 4Thanks for come and shopping
+come again soon
+
+
+Shope Name:         Dipesh'S Super Shope
+Customer Name: Dipesh Kayal
+Billno. Billabc52
+Date: 2025-08-21 04:57:16.085114
+------------------------------------------------------------
+1.  Name: Banana | Price: 5 |  Quaintity: 23 |  Total_Price 115
+2.  Name: Potato | Price: 2 |  Quaintity: 34 |  Total_Price 68
+------------------------------------------------------------
+Grand Total: 183
+Thanks for come and shopping
+come again soon
+
+
+----------------------------------------------------------------------------------------------------
+Shope Name:         Dipesh'S Super Shope
+Customer Name: Dipesh Kayal
+Billno. Billabc25
+Date: 2025-08-21 05:02:47.712044
+------------------------------------------------------------
+1.  Name: Potato | Price: 4 |  Quaintity: 23 |  Total_Price 92
+2.  Name: banana | Price: 5 |  Quaintity: 34 |  Total_Price 170
+------------------------------------------------------------
+Grand Total: 262
+Thanks for come and shopping
+come again soon
+
+
+----------------------------------------------------------------------------------------------------
+Shope Name:         Dipesh'S Super Shope
+Customer Name: Dipesh Kayal
+Billno. Billabc33
+Date: 2025-08-21 05:05:20.978928
+------------------------------------------------------------
+1.  Name: banana | Price: 3 |  Quaintity: 2 |  Total_Price 6
+------------------------------------------------------------
+Grand Total: 6
+Thanks for come and shopping
+come again soon
+
+
+----------------------------------------------------------------------------------------------------
+Shope Name:         Dipesh'S Super Shope
+Customer Name: Dipesh Kayal
+Billno. Billabc6
+Date: 2025-08-21 05:07:40.878165
+------------------------------------------------------------
+1.  Name: banana | Price: 4 |  Quaintity: 3 |  Total_Price 12
+2.  Name: guava | Price: 5 |  Quaintity: 4 |  Total_Price 20
+------------------------------------------------------------
+Grand Total: 32
+Thanks for come and shopping
+come again soon
+
+
+----------------------------------------------------------------------------------------------------
