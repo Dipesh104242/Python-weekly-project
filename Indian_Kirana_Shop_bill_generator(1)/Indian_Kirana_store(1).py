@@ -48,7 +48,7 @@ while True:
     bill_items_list = []
 
     for i in range(len(list_of_items)):
-        d = f"{i+1}.  Name: {list_of_items[i]} | Price: {list_of_item_price[i]} |  Quaintity: {list_of_quantity[i]} |  Total_Price {total_of_item[i]}\n"
+        d = f"{i+1}.  Item_Name: {list_of_items[i]} | Price: {list_of_item_price[i]} |  Quaintity: {list_of_quantity[i]} |  Total_Price {total_of_item[i]}\n"
         bill_items_list.append(d)
 
     def bill(bill_items,total_price,customer_name,shope_name,currect_time,random_bill):
@@ -92,3 +92,4 @@ while True:
         continue
     elif recap == 'q':
         break
+
