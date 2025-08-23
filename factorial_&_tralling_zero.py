@@ -11,14 +11,19 @@ def find_factorial(n):
             Total*=i
         return Total
 def factorialTrailingZeros(number):
-    fac = find_factorial(number)
-    print(fac)
+    # fac = find_factorial(number)
+    # print(fac)
+    # count = 0
+    # while (fac%10 ==0):
+    #     count = count + 1
+    #     fac = fac/10
+    # return count
     count = 0
-    while (fac%10 ==0):
-        count = count + 1
-        fac = fac/10
+    i =5
+    while(number//i !=0):
+        count += int(number/i)
+        i = i*5
     return count
-
         
     
     
@@ -26,3 +31,4 @@ number = int(input("Enter here your integer number:\n"))
 
 # print("Your factorial number is:\t",find_factorial(int(number)))
 print(factorialTrailingZeros(number))
+
